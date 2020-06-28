@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/MyTally-website/static/css/main.a8125dae.chunk.css",
+    "main.js": "/MyTally-website/static/js/main.46f74319.chunk.js",
+    "main.js.map": "/MyTally-website/static/js/main.46f74319.chunk.js.map",
+    "runtime-main.js": "/MyTally-website/static/js/runtime-main.c7e8556f.js",
+    "runtime-main.js.map": "/MyTally-website/static/js/runtime-main.c7e8556f.js.map",
+    "static/js/2.8eb89db5.chunk.js": "/MyTally-website/static/js/2.8eb89db5.chunk.js",
+    "static/js/2.8eb89db5.chunk.js.map": "/MyTally-website/static/js/2.8eb89db5.chunk.js.map",
+    "index.html": "/MyTally-website/index.html",
+    "precache-manifest.9e0b4973cda3764d420f6bb9f6ddb09a.js": "/MyTally-website/precache-manifest.9e0b4973cda3764d420f6bb9f6ddb09a.js",
+    "service-worker.js": "/MyTally-website/service-worker.js",
+    "static/css/main.a8125dae.chunk.css.map": "/MyTally-website/static/css/main.a8125dae.chunk.css.map",
+    "static/js/2.8eb89db5.chunk.js.LICENSE.txt": "/MyTally-website/static/js/2.8eb89db5.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c7e8556f.js",
+    "static/js/2.8eb89db5.chunk.js",
+    "static/css/main.a8125dae.chunk.css",
+    "static/js/main.46f74319.chunk.js"
+  ]
+}
